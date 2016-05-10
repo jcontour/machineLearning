@@ -1,3 +1,6 @@
+
+https://docs.google.com/a/newschool.edu/presentation/d/194A-_8zdXCDPXlExQDTKkQ2PlK9dCTOS9UKgKLwA2Jg/edit?usp=sharing
+
 # machineLearning
 
 Project 1
